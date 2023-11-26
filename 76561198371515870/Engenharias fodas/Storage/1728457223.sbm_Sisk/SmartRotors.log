@@ -1,0 +1,6 @@
+[19:17:16:804] [I] [Sisk.SmartRotors.Mod->InitializeLogging()]: Logging initialized
+[19:17:16:812] [I] [Sisk.SmartRotors.Mod->InitializeNetwork()]: Initialize Network
+[19:17:16:818] [I] [Sisk.SmartRotors.Mod->InitializeNetwork()]: IsClient True, IsServer: True, IsDedicated: False
+[19:17:16:818] [I] [Sisk.SmartRotors.Mod->InitializeNetwork()]: Network initialized
+[22:51:48:662] [I] [Sisk.SmartRotors.Mod->UnloadData()]: Cap network connections
+[22:51:48:664] [I] [Sisk.SmartRotors.Mod->UnloadData()]: Logging stopped

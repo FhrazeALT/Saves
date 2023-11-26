@@ -1,0 +1,5 @@
+[19:17:51.225] [T1] [DS=False] DEBUG | Log Started (v1.7)
+[19:17:56.810] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[19:27:47.331] [T1] [DS=False] DEBUG | AiSession.FactionCreated: Human faction 'Pog' paired with bot faction 'FLWR' successfully!
+[22:51:48.535] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[22:51:48.561] [T1] [DS=False] DEBUG | Mod unloaded successfully
